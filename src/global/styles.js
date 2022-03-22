@@ -79,6 +79,7 @@ const GlobalStyle = styled.createGlobalStyle`
 
   section {
     margin-top: 8rem;
+    height: 100vh;
   }
 
   // Every section also have an h2 and an h5

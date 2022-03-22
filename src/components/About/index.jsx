@@ -1,7 +1,8 @@
 import React from "react";
+import { AboutWrapper } from "./styles";
 
 const About = () => {
-  return <div>About</div>;
+  return <AboutWrapper>About</AboutWrapper>;
 };
 
 export default About;
