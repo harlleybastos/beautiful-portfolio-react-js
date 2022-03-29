@@ -43,7 +43,7 @@ export const AboutContainerMe = styled.div`
   }
   @media screen and (max-width: 600px) {
     width: 65%;
-    margin 0 auto 3 rem;
+    margin 0 auto 3rem;
   }
 `;
 
