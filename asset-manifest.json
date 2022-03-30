@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/beautiful-portfolio-react-js/static/css/main.88975cc2.css",
-    "main.js": "/beautiful-portfolio-react-js/static/js/main.79903167.js",
+    "main.js": "/beautiful-portfolio-react-js/static/js/main.b7068ff8.js",
     "static/media/cv.pdf": "/beautiful-portfolio-react-js/static/media/cv.1676dcdc83730930d888.pdf",
     "static/media/me.png": "/beautiful-portfolio-react-js/static/media/me.821ecddcb9953b46bf75.png",
     "static/media/me-about.jpg": "/beautiful-portfolio-react-js/static/media/me-about.fb4452e7f286d3636ef9.jpg",
@@ -17,10 +17,10 @@
     "static/media/portfolio4.jpg": "/beautiful-portfolio-react-js/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
     "index.html": "/beautiful-portfolio-react-js/index.html",
     "main.88975cc2.css.map": "/beautiful-portfolio-react-js/static/css/main.88975cc2.css.map",
-    "main.79903167.js.map": "/beautiful-portfolio-react-js/static/js/main.79903167.js.map"
+    "main.b7068ff8.js.map": "/beautiful-portfolio-react-js/static/js/main.b7068ff8.js.map"
   },
   "entrypoints": [
     "static/css/main.88975cc2.css",
-    "static/js/main.79903167.js"
+    "static/js/main.b7068ff8.js"
   ]
 }
