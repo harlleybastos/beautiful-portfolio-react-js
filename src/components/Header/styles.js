@@ -1,13 +1,9 @@
 import styled from "styled-components";
 
 export const HeaderWrapper = styled.header`
-  height: 100vh;
+  height: 900px;
   padding-top: 7rem;
   overflow: hidden;
-
-  @media screen and (max-width: 600px) {
-    height: 100vh;
-  }
 `;
 
 export const HeaderContainer = styled.div.attrs({
