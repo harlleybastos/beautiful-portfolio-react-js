@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/beautiful-portfolio-react-js%20/static/css/main.88975cc2.css",
+    "main.js": "/beautiful-portfolio-react-js%20/static/js/main.32952d51.js",
+    "static/media/cv.pdf": "/beautiful-portfolio-react-js%20/static/media/cv.1676dcdc83730930d888.pdf",
+    "static/media/me.png": "/beautiful-portfolio-react-js%20/static/media/me.821ecddcb9953b46bf75.png",
+    "static/media/me-about.jpg": "/beautiful-portfolio-react-js%20/static/media/me-about.fb4452e7f286d3636ef9.jpg",
+    "static/media/portfolio5.png": "/beautiful-portfolio-react-js%20/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/Poppins-Light.ttf": "/beautiful-portfolio-react-js%20/static/media/Poppins-Light.7641a0f76ca9ef6c252c.ttf",
+    "static/media/Poppins-Regular.ttf": "/beautiful-portfolio-react-js%20/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/Poppins-Medium.ttf": "/beautiful-portfolio-react-js%20/static/media/Poppins-Medium.673ed42382ab264e0bf5.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/beautiful-portfolio-react-js%20/static/media/Poppins-SemiBold.ac8d04b620e54be9b0f0.ttf",
+    "static/media/portfolio2.jpg": "/beautiful-portfolio-react-js%20/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio6.jpg": "/beautiful-portfolio-react-js%20/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/portfolio1.jpg": "/beautiful-portfolio-react-js%20/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/beautiful-portfolio-react-js%20/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/portfolio4.jpg": "/beautiful-portfolio-react-js%20/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "index.html": "/beautiful-portfolio-react-js%20/index.html",
+    "main.88975cc2.css.map": "/beautiful-portfolio-react-js%20/static/css/main.88975cc2.css.map",
+    "main.32952d51.js.map": "/beautiful-portfolio-react-js%20/static/js/main.32952d51.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88975cc2.css",
+    "static/js/main.32952d51.js"
+  ]
+}
