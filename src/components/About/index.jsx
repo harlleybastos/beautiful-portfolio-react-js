@@ -61,17 +61,15 @@ const About = () => {
               </AboutContainerContentCardSecondText>
             </AboutContainerContentCard>
           </AboutContainerContentCards>
+          <AboutParagraph>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore
+            perferendis placeat aut nobis, veritatis eos cumque earum. Ratione
+            ipsam iste qui dolores? Nesciunt, quam illo esse doloribus
+            voluptates blanditiis unde!
+          </AboutParagraph>
+          <AboutButton>Let's Talk</AboutButton>
         </AboutContainerContent>
       </AboutContainer>
-
-      <AboutParagraph>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore
-        perferendis placeat aut nobis, veritatis eos cumque earum. Ratione ipsam
-        iste qui dolores? Nesciunt, quam illo esse doloribus voluptates
-        blanditiis unde!
-      </AboutParagraph>
-
-      <AboutButton href="#contact">Let's Talk</AboutButton>
     </AboutWrapper>
   );
 };

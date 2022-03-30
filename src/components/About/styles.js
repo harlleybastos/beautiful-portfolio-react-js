@@ -111,4 +111,6 @@ export const AboutParagraph = styled.p`
   }
 `;
 
-export const AboutButton = styled.a``;
+export const AboutButton = styled.a.attrs({
+  className: "btn btn-primary",
+})``;

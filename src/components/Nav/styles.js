@@ -29,7 +29,7 @@ export const Link = styled.a`
   }
 
   &.active {
-    background: var(--color-bg);
-    color: var(--color-white);
+    background: var(--color-primary);
+    color: var(--color-bg);
   }
 `;
